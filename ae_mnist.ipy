@@ -1,15 +1,6 @@
 {
   "cells": [
     {
-      "metadata": {
-        "id": "_DAsej7XSlYt"
-      },
-      "cell_type": "markdown",
-      "source": [
-        "> <p><small><small>This Notebook is made available subject to the licence and terms set out in the <a href = \"http://www.github.com/google-deepmind/ai-foundations\">AI Research Foundations Github README file</a>."
-      ]
-    },
-    {
       "cell_type": "markdown",
       "source": [
         "<img src=\"https://storage.googleapis.com/dm-educational/assets/ai_foundations/GDM-Labs-banner-image-C1-white-bg.png\">"
